@@ -10,8 +10,8 @@
 <p>Drag and drop the .dll to the console application and it will generate a directory called Publicized-Assemblies in the folder with both specified dll and its publicized version.</p>
 
 <h2>Method 2</h2>
-<p>Open a powershell or cmd terminal in the .exe location and execute ./AssemblyPublicizer.exe DLLName.dll PathToWriteHere.</p><br>
-<p>Replacing the DLLName parameter to your dll name + .dll (keep in mind the dll has to be in the exe folder aswell).</p><br>
+<p>Open a powershell or cmd terminal in the .exe location and execute ./AssemblyPublicizer.exe DLLName.dll PathToWriteHere.</p>
+<p>Replacing the DLLName parameter to your dll name + .dll (keep in mind the dll has to be in the exe folder aswell).</p>
 <p>Replacing the PathToWriteHere to your desired path.</p>
 
 <h2 align="center">Note</h2>
